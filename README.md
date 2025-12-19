@@ -30,6 +30,10 @@ bash test.sh
 
 All code run on NVIDIA L40 with cuda 12.4
 
+## Checkpoint
+
+https://drive.google.com/drive/folders/1bemjyZ4NyTeh9-0awkYdJ1jKH712LJ5y?usp=share_link
+
 ## Citation
 Consider cite us if you find our paper is useful in your research :).
 ```
